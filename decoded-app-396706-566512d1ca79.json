@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "decoded-app-396706",
+  "private_key_id": "566512d1ca7998c088989db1dac7ac4ef12dd129",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCgDeuBtXDB/ME4\nvODDzQq7fwraYbydmDxTeaxhI0uHwz92fGB2X0I0BH6QltvlNch4wrfC6aR9IyEm\nuaz8rilSxO+zLASlgQ39DztoOK7MConLOVKoMsrjYsvFbcUDwSo9bP5eU0sKrpo9\nZ/x+2bvM+jcEIaVtYhzt+oSBhImGyZswXB9XSdB9LDpOtGGsJGfuxbpD3ehwt0TU\nKdJbJ+ESZI93CGEeQQIY8DJIkPPl+JdiFVU7EcgVJNiymVSxw/lAJMr+X+CBKPPU\nGQw5ArgRpbk7qP61n73Y/S+BnKNFSgGseZVsYMLfR1TOLcgX5S4RmL2kpLezFjdj\ntJwozMv5AgMBAAECggEAA2cUzQz4mqgPIDbyazkA/nZz6Kuh0RLHom7mt6lJtZ5Y\nLuKCJWBQvAztE6310ENFgb0QrZwwGTUumGkABGy/q2AUVnwxXG3Wj5JvfrhzjYvw\neXJnQS3Ul5v0JIOHS44xzIeCnKprbykz47Dea50S2BXpCkrVflX9lnVi7P+HY9jE\naGYct4afiUa2BOjwf3oPwYnk7I5tSMJoqPZQmkNidV8mpIUK+D0ktowN0RGCBVok\nJtqPPkGmIpozKTuZXAxlrzrmR4Sua4BWR5F0EdjlxuiHxaMEK/9qkoycpfQvzHRl\nSuuU7IyLfYVSh6s9j4/F5qMKdSw9fVShziuMCl4uRwKBgQDgSteWJoEJuLcNhaJM\no56XmPDSY3+pGLP36kFWxdCqrfZ3WxJ19QbXtc4REpC0WNhjJI+Sxv/v/eVT1HqF\nq53TK9bVP3LHR5DZivCL4PifmBJ1dAH9h6n+kFvgFz8YDBO08ikF0Sl3o78A+PmJ\ninyjx/cULryL5M2WkQcVinpG1wKBgQC2rkzkg6ji4KrVdNVvOVCjxTDiZ2nSWiQ2\n/aJVXIbXhoYzxX9gxiFMUtf+2YAAjew+9ZnKLxCT7alVyq2Gzsk8Y/XlYKJeaP4W\ncdWHI1fGLMbnOefb41h2rq8TJagi74RvdS4oqvZIo07o6IdYHklp1/LGlbf9yVda\nehdu7oO5rwKBgGbWygyFcQrlD8F6cVUUfGXj8R92EZWVxwa3+OdxYeCwTN6i+k7t\nXwrOyEIZshGO3wBuRgo1hioizuBl/xuE+aNWaXVzVww6Kxcj1nE8YKLEVkpWO4dk\nibQ3uniAECTVfL+tfNO2+H1rresjPT8sKUPrLsWpPDgkW4Na0dW1naUXAoGBAKee\ny0MqY365s0blSyohJxL+TtqPFRRETdJ/a8Jzge6kquM6JqS/Z7JGmZZoMAFSOCGU\n7aYNBWMWwTfNHugBObjF58yunI2QPQSPMuQq09EtKNzlzw9+TZ+orVAeT2au64/x\nr4b1R8JixncDVZzPPYF2+naozgh6BEMqn/HTvN5VAoGBAIQTuBK4kc2tWVtS8sol\nJTCyw1vWsvkf0NXvoihuYiZcsq5igxQ7WkKbZkugi3/4aeVRIx3kJW3DYnTGlOKc\nz3ZBX6cx4GdkHon8DUqriORgWib+6z2GFlLBtMg6WIym+NXWDrBzg0a8hG12ZHi5\netfmf94NeM3u/DzLMWb50Kun\n-----END PRIVATE KEY-----\n",
+  "client_email": "doctors-olympiad@decoded-app-396706.iam.gserviceaccount.com",
+  "client_id": "100007125425659984220",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/doctors-olympiad%40decoded-app-396706.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
